@@ -184,7 +184,8 @@
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="eee8d5" />
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="BACKGROUND" value="cb4b16" />
       </value>
     </option>
     <option name="BUILDOUT.KEY">
